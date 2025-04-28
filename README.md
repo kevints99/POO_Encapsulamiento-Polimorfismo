@@ -1,4 +1,6 @@
 # POO_Encapsulamiento-Polimorfismo
+# Kevin Tapia Suarez - POO 3E
+
 # Ejercicio 1: Registro de Notas 
 --------------------------------------------------
 - Clase Estudiante con atributos privados: _nombre, _codigo y _notas.
